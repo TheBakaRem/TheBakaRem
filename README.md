@@ -1,25 +1,20 @@
 <h1 align="center">🔵 Rem's GitHub Profile 🔵</h1>
 
 ## Hi there, I'm **Rem**! 👋
-
-- 👨‍🎓 I'm an IT student from 🇫🇷 **France**, and this is my personal GitHub page.  
-- ✨ You will find here all of my ~~silly~~ projects that I code on my free time.  
-- 🌌 These projects range from 📱 Android apps, to 🖥 RichPresence displays, to 🤖 Discord bots…
-- 🧠 I like ⌨ programming, 🎮 video games and 📚 learning new things!
+I'm an IT student from 🇫🇷 **France**, and this is my personal GitHub profile.  
+You will find here all of the (public) code projects that I work on in my free time.
 
 
-## My favorite tools and languages:
+## Main languages and tools I use:
 
 <p align="left"> 
-    <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> </a>
-    <a href="https://en.cppreference.com/w/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/> </a>
-    <a href="https://en.cppreference.com/w/c" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/> </a>   
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/> </a> 
+    <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="NodeJS" alt="NodeJS"/> </a> 
+    <a href="https://nuxtjs.org" target="_blank"> <img src="https://nuxtjs.org/design-kit/colored-logo.png" height="48px" title="NuxtJS" alt="NuxtJS"/> </a>
+    <a href="https://en.cppreference.com/w/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" alt="C++"/> </a>
+    <a href="https://en.cppreference.com/w/c" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C" alt="C"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" alt="Python"/> </a>   
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" alt="Java"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" alt="Git"/> </a> 
 </p>
 
 
@@ -33,7 +28,7 @@
 ## Contact me:
 
 <p align="left">
-<a href="https://twitter.com/TheBakaRem"> <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/> </a>
+<a href="https://twitter.com/TheBakaRem"> <img src="https://img.icons8.com/fluent/48/000000/twitter.png" title="@TheBakaRem" alt="Twitter"/> </a>
 </p>
 
 
