@@ -1,7 +1,7 @@
 <h1 align="center">🔵 Rem's GitHub Profile 🔵</h1>
 
 ## Hi there, I'm **Rem**! 👋
-I'm an IT student from 🇫🇷 **France**, and this is my personal GitHub profile.  
+I'm a full-stack developer from 🇫🇷 **France**, and this is my personal GitHub profile.  
 You will find here all of the (public) code projects that I work on in my free time.
 
 
@@ -28,7 +28,7 @@ You will find here all of the (public) code projects that I work on in my free t
 ## Contact me:
 
 <p align="left">
-<a href="https://twitter.com/TheBakaRem"> <img src="https://img.icons8.com/fluent/48/000000/twitter.png" title="@TheBakaRem" alt="Twitter"/> </a>
+<a href="https://bsky.app/profile/thebakarem.fr"> <img src="https://img.icons8.com/fluent/48/000000/bluesky.png" title="@thebakarem.fr" alt="Bluesky"/> </a>
 </p>
 
 
